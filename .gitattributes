@@ -1,1 +1,2 @@
-*.* linguist-language=Python
+*.gherkin linguist-detectable=false
+*.python linguist-detectable=false
